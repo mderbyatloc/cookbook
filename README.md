@@ -1,7 +1,7 @@
 # cookbook
 A notebook of Jupyter notebook goodies that I use mostly on Binder. Click the badge below to launch them there, or follow the links to look at static versions of them on GitHub.
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dbrunton/cookbook/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mderbyatloc/cookbook/master)
 
 1. [Markdown](https://github.com/dbrunton/cookbook/blob/master/Markdown.ipynb) is syntax for formatting text in notebooks.
    - GitHub also has [direct support](Raw-Markdown.md) for Markdown
